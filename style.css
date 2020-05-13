@@ -47,3 +47,7 @@ a {
 a:hover {
 	color:black;
 }
+
+.space {
+        backgorund: url(space.jpg);
+}
