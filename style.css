@@ -49,6 +49,9 @@ a:hover {
 }
 
 .space {
-	color:white;
         background: url(space.jpg);
+}
+
+.space a {
+        color:white;
 }
