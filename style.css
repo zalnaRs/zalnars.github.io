@@ -16,7 +16,7 @@ body {
 .card {
 	background: rgba(0, 0, 0, 0.2);
 	padding: 10px;
-	transition: 0.5s all linear;
+	transition: 0.2s all linear;
 	margin: 10px;
 	border-radius: 20px;
 	opacity: 0.8;
@@ -41,7 +41,7 @@ body {
 a {
 	color: white;
 	text-decoration:none;
-	transition: 0.5s all linear;
+	transition: 0.2s all linear;
 }
 
 a:hover {
